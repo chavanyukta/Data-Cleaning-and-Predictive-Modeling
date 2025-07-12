@@ -1,4 +1,4 @@
-# Assignment 5: Data Cleaning and Predictive Modeling  
+# Data Cleaning and Predictive Modeling  
 **Author:** Yukta Sanjiv Chavan  
 **Date:** 12/04/2023  
 
@@ -51,9 +51,11 @@ This project focuses on cleaning, preprocessing, and building a predictive model
 ---
 
 ## Project Report  
-A detailed project report titled **Data Cleaning and Predictive Modeling.pdf** is included. It documents the full analysis workflow, methodology, and results.
+
+A detailed project report titled [**Data Cleaning and Predictive Modeling.pdf**](./Data%20Cleaning%20and%20Predictive%20Modeling.pdf) is included. It documents the full analysis workflow, methodology, and results.
 
 ---
+
 
 
 ## Contact  
